@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "dubistein_pole": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "items": [
+            "polen_mod:polenblock"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 80
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 16,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PolenOreItem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolenOreItem"
+      },
+      {
+        "value": "Items.BLAZE_POWDER"
+      },
+      {
+        "value": "Items.DYE#4"
+      },
+      {
+        "value": "Items.BLAZE_POWDER"
+      },
+      {
+        "value": "Items.DYE#4"
+      },
+      {
+        "value": "Items.EXPERIENCE_BOTTLE"
+      },
+      {
+        "value": "Items.DYE#4"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Jesuskraft"
+    },
+    "name": "jesuscraft",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_fv": 24,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Polenenchant",
+    "type": "ARMOR",
+    "rarity": "UNCOMMON",
+    "minLevel": 1,
+    "maxLevel": 1,
+    "damageModifier": 50,
+    "compatibleEnchantments": [
+      {
+        "value": "MENDING"
+      }
+    ],
+    "compatibleItems": [
+      {
+        "value": "CUSTOM:RauberArmor.boots"
+      },
+      {
+        "value": "CUSTOM:RauberArmor.legs"
+      },
+      {
+        "value": "CUSTOM:RauberArmor.body"
+      },
+      {
+        "value": "CUSTOM:RauberArmor.helmet"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "polen_mod:polen_ore_item"
+    },
+    "1": {
+      "item": "polen_mod:polen_ore_item"
+    },
+    "2": {
+      "item": "polen_mod:polen_ore_item"
+    },
+    "3": {
+      "item": "polen_mod:polen_ore_item"
+    },
+    "4": {
+      "item": "polen_mod:polen_ore_item"
+    },
+    "5": {
+      "item": "polen_mod:polen_ore_item"
+    },
+    "6": {
+      "item": "polen_mod:polen_ore_item"
+    },
+    "7": {
+      "item": "polen_mod:polen_ore_item"
+    },
+    "8": {
+      "item": "polen_mod:polen_ore_item"
+    }
+  },
+  "result": {
+    "item": "polen_mod:polenblock",
+    "count": 1
+  }
+}

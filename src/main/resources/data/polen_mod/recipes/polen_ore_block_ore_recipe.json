@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "polen_mod:polen_ore_block"
+    }
+  ],
+  "result": {
+    "item": "polen_mod:polen_ore_item",
+    "count": 9
+  }
+}

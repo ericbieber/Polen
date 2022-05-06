@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "polen_mod:blocks/polenore",
+    "up": "polen_mod:blocks/polenore",
+    "north": "polen_mod:blocks/polenore",
+    "east": "polen_mod:blocks/polenore",
+    "south": "polen_mod:blocks/polenore",
+    "west": "polen_mod:blocks/polenore",
+    "particle": "polen_mod:blocks/polenore"
+  }
+}

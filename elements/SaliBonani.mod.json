@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "trommel_ute",
+    "name": "Sali Bonani",
+    "description": "Schönen guten Morgen",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:sali"
+    },
+    "specialInfo": [
+      "Sali Bonani"
+    ],
+    "hasGlow": false
+  }
+}

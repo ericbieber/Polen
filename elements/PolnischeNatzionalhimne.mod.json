@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc",
+    "name": "Polnische Natzionalhymne",
+    "description": "polen",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:polen"
+    },
+    "specialInfo": [
+      "Plnische Hymne"
+    ],
+    "hasGlow": true
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "mod_elements": [
+    {
+      "name": "Polen_OreBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polen_ore_block"
+    },
+    {
+      "name": "Polen_OreBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polen_ore_block_ore_recipe"
+    },
+    {
+      "name": "Polen_OreOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polen_ore_ore_smelting"
+    },
+    {
+      "name": "PolenOreItem",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polen_ore_item"
+    },
+    {
+      "name": "Polenpickaxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polenpickaxe"
+    },
+    {
+      "name": "Polenpickaxecrafting",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polenpickaxecrafting"
+    },
+    {
+      "name": "Polensword",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polensword"
+    },
+    {
+      "name": "Polenhoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polenhoe"
+    },
+    {
+      "name": "Polenhoecrafting",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polenhoecrafting"
+    },
+    {
+      "name": "Polenswordcrafting",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polenswordcrafting"
+    },
+    {
+      "name": "Nogger",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nogger"
+    },
+    {
+      "name": "Polenaxe",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polenaxe"
+    },
+    {
+      "name": "Polenpotion",
+      "type": "potion",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polenpotion"
+    },
+    {
+      "name": "DubisteinPole",
+      "type": "achievement",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dubistein_pole"
+    },
+    {
+      "name": "Brechstange",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brechstange"
+    },
+    {
+      "name": "Brechstnagecrafting",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brechstnagecrafting"
+    },
+    {
+      "name": "RauberArmor",
+      "type": "armor",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rauber_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Rustung"
+    },
+    {
+      "name": "RauberArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rauber_armor_helmet_recipe",
+      "path": "~/Rustung"
+    },
+    {
+      "name": "RauberArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rauber_armor_body_recipe",
+      "path": "~/Rustung"
+    },
+    {
+      "name": "RauberArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rauber_armor_leggings_recipe",
+      "path": "~/Rustung"
+    },
+    {
+      "name": "RauberArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rauber_armor_boots_recipe",
+      "path": "~/Rustung"
+    },
+    {
+      "name": "Polenenchant",
+      "type": "enchantment",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polenenchant"
+    },
+    {
+      "name": "Polenblock",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polenblock"
+    },
+    {
+      "name": "Polenblockcrafting",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polenblockcrafting"
+    },
+    {
+      "name": "PolnischeNatzionalhimne",
+      "type": "musicdisc",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polnische_natzionalhimne"
+    },
+    {
+      "name": "Polenaxtcrafting",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polenaxtcrafting"
+    },
+    {
+      "name": "Polenaxecrafting2",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polenaxecrafting_2"
+    },
+    {
+      "name": "Jesuskraft",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jesuskraft"
+    },
+    {
+      "name": "JesusKreuz",
+      "type": "rangeditem",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jesus_kreuz"
+    },
+    {
+      "name": "Jesuskruezcrafting",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jesuskruezcrafting"
+    },
+    {
+      "name": "Jesuscraft",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jesuscraft"
+    },
+    {
+      "name": "SaliBonani",
+      "type": "musicdisc",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sali_bonani"
+    },
+    {
+      "name": "Uteremixore",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uteremixore"
+    },
+    {
+      "name": "Uteore",
+      "type": "item",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uteore"
+    },
+    {
+      "name": "SaliBonanicrafting",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sali_bonanicrafting"
+    },
+    {
+      "name": "Utechest",
+      "type": "loottable",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "utechest"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "polen",
+      "files": [
+        "polnische_hymne_-_anthem_of_poland_pl_de_text"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "sali",
+      "files": [
+        "sali_bonani"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "advancements.dubistein_pole.descr": "Du hast die Polen Potion getrunken",
+      "item.polen_mod.rauber_armor_boots": "Rauber Boots",
+      "item.polen_mod.uteremixore": "Uteremixore",
+      "subtitles.polen": "",
+      "item.minecraft.potion.effect.polenpotion": "Potion of Polen",
+      "item.polen_mod.polnische_natzionalhimne": "Polnische Natzionalhymne",
+      "item.polen_mod.polenaxe": "Polenaxe",
+      "item.minecraft.splash_potion.effect.polenpotion": "Splash Potion of Polen",
+      "block.polen_mod.polen_ore_block": "Block of Polen_Ore",
+      "item.polen_mod.polenpickaxe": "Polenpickaxe",
+      "item.polen_mod.uteore": "Uteore",
+      "enchantment.polen_mod.polenenchant": "Polenenchant",
+      "item.polen_mod.brechstange": "Brechstange",
+      "advancements.dubistein_pole.title": "Du bist ein Pole",
+      "item.polen_mod.rauber_armor_chestplate": "Rauber Chestplate",
+      "item.polen_mod.polenhoe": "Polenhoe",
+      "item.polen_mod.polnische_natzionalhimne.desc": "polen",
+      "item.polen_mod.sali_bonani.desc": "Schönen guten Morgen",
+      "subtitles.sali": "",
+      "item.minecraft.tipped_arrow.effect.polenpotion": "Arrow of Polen",
+      "item.minecraft.lingering_potion.effect.polenpotion": "Lingering Potion of Polen",
+      "item.polen_mod.polensword": "Polensword",
+      "item.polen_mod.rauber_armor_helmet": "Rauber Helmet",
+      "item.polen_mod.rauber_armor_leggings": "Rauber Leggings",
+      "item.polen_mod.polen_ore_item": "Polen Ore Item",
+      "item.polen_mod.jesuskraft": "Jesuskraft",
+      "item.polen_mod.sali_bonani": "Sali Bonani",
+      "block.polen_mod.polenblock": "Polenblock",
+      "item.polen_mod.jesus_kreuz": "Jesus Kreuz"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Rustung",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "polen_mod",
+    "modName": "Polen Mod",
+    "version": "1.0.0",
+    "author": "User, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.polenmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

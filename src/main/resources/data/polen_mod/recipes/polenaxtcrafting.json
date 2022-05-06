@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "polen_mod:polen_ore_item"
+    },
+    "1": {
+      "item": "polen_mod:polen_ore_item"
+    },
+    "2": {
+      "item": "polen_mod:polen_ore_item"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "polen_mod:polenaxe",
+    "count": 1
+  }
+}

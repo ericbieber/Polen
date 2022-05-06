@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "polen_mod:polen_ore_item"
+    },
+    "2": {
+      "item": "polen_mod:polen_ore_item"
+    },
+    "3": {
+      "item": "minecraft:blaze_powder"
+    },
+    "4": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "5": {
+      "item": "minecraft:blaze_powder"
+    },
+    "6": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "7": {
+      "item": "minecraft:experience_bottle"
+    },
+    "8": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "polen_mod:jesuskraft",
+    "count": 16
+  }
+}

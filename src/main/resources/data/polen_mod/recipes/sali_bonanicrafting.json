@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "polen_mod:uteore"
+    },
+    "1": {
+      "item": "polen_mod:uteore"
+    },
+    "2": {
+      "item": "polen_mod:uteore"
+    },
+    "3": {
+      "item": "polen_mod:uteore"
+    },
+    "4": {
+      "item": "polen_mod:uteremixore"
+    },
+    "5": {
+      "item": "polen_mod:uteore"
+    },
+    "6": {
+      "item": "polen_mod:uteore"
+    },
+    "7": {
+      "item": "polen_mod:uteore"
+    },
+    "8": {
+      "item": "polen_mod:uteore"
+    }
+  },
+  "result": {
+    "item": "polen_mod:sali_bonani",
+    "count": 1
+  }
+}

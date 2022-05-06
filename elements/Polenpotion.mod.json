@@ -1,0 +1,48 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Polen",
+    "splashName": "Splash Potion of Polen",
+    "lingeringName": "Lingering Potion of Polen",
+    "arrowName": "Arrow of Polen",
+    "effects": [
+      {
+        "effect": {
+          "value": "SPEED"
+        },
+        "duration": 10000,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "HASTE"
+        },
+        "duration": 10000,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "REGENERATION"
+        },
+        "duration": 10000,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "RESISTANCE"
+        },
+        "duration": 10000,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

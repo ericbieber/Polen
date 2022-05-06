@@ -1,0 +1,20 @@
+{
+  "polen": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "polen_mod:polnische_hymne_-_anthem_of_poland_pl_de_text",
+        "stream": false
+      }
+    ]
+  },
+  "sali": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "polen_mod:sali_bonani",
+        "stream": false
+      }
+    ]
+  }
+}
