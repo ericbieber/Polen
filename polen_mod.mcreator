@@ -298,6 +298,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "utechest"
+    },
+    {
+      "name": "Polenflagge",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polenflagge"
+    },
+    {
+      "name": "Polenmod",
+      "type": "tab",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polenmod"
     }
   ],
   "variable_elements": [],
@@ -333,12 +349,14 @@
       "item.polen_mod.polenpickaxe": "Polenpickaxe",
       "item.polen_mod.uteore": "Uteore",
       "enchantment.polen_mod.polenenchant": "Polenenchant",
+      "itemGroup.tabpolenmod": "Polenmod",
       "item.polen_mod.brechstange": "Brechstange",
       "advancements.dubistein_pole.title": "Du bist ein Pole",
       "item.polen_mod.rauber_armor_chestplate": "Rauber Chestplate",
       "item.polen_mod.polenhoe": "Polenhoe",
       "item.polen_mod.polnische_natzionalhimne.desc": "polen",
       "item.polen_mod.sali_bonani.desc": "Schönen guten Morgen",
+      "item.polen_mod.polenflagge": "Polenflagge",
       "subtitles.sali": "",
       "item.minecraft.tipped_arrow.effect.polenpotion": "Arrow of Polen",
       "item.minecraft.lingering_potion.effect.polenpotion": "Lingering Potion of Polen",

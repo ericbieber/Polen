@@ -21,6 +21,7 @@ import net.mcreator.polenmod.item.PolnischeNatzionalhimneItem;
 import net.mcreator.polenmod.item.PolenswordItem;
 import net.mcreator.polenmod.item.PolenpickaxeItem;
 import net.mcreator.polenmod.item.PolenhoeItem;
+import net.mcreator.polenmod.item.PolenflaggeItem;
 import net.mcreator.polenmod.item.PolenaxeItem;
 import net.mcreator.polenmod.item.PolenOreItemItem;
 import net.mcreator.polenmod.item.JesuskraftItem;
@@ -51,6 +52,7 @@ public class PolenModModItems {
 	public static final Item SALI_BONANI = register(new SaliBonaniItem());
 	public static final Item UTEREMIXORE = register(new UteremixoreItem());
 	public static final Item UTEORE = register(new UteoreItem());
+	public static final Item POLENFLAGGE = register(new PolenflaggeItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
