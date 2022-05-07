@@ -6,7 +6,7 @@
     "name": "Polnische Natzionalhymne",
     "description": "polen",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:Polenmod"
     },
     "music": {
       "value": "CUSTOM:polen"

@@ -10,7 +10,7 @@
       "Polen_pickaxe zum zerstören von Spezialen Türen und Fenstern"
     ],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:Polenmod"
     },
     "toolType": "Pickaxe",
     "harvestLevel": 100,

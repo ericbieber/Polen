@@ -34,7 +34,7 @@ import java.util.ArrayList;
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
 public class PolenModModItems {
 	private static final List<Item> REGISTRY = new ArrayList<>();
-	public static final Item POLEN_ORE_BLOCK = register(PolenModModBlocks.POLEN_ORE_BLOCK, CreativeModeTab.TAB_BUILDING_BLOCKS);
+	public static final Item POLEN_ORE_BLOCK = register(PolenModModBlocks.POLEN_ORE_BLOCK, PolenModModTabs.TAB_POLENMOD);
 	public static final Item POLEN_ORE_ITEM = register(new PolenOreItemItem());
 	public static final Item POLENPICKAXE = register(new PolenpickaxeItem());
 	public static final Item POLENSWORD = register(new PolenswordItem());
@@ -45,7 +45,7 @@ public class PolenModModItems {
 	public static final Item RAUBER_ARMOR_CHESTPLATE = register(new RauberArmorItem.Chestplate());
 	public static final Item RAUBER_ARMOR_LEGGINGS = register(new RauberArmorItem.Leggings());
 	public static final Item RAUBER_ARMOR_BOOTS = register(new RauberArmorItem.Boots());
-	public static final Item POLENBLOCK = register(PolenModModBlocks.POLENBLOCK, CreativeModeTab.TAB_BUILDING_BLOCKS);
+	public static final Item POLENBLOCK = register(PolenModModBlocks.POLENBLOCK, PolenModModTabs.TAB_POLENMOD);
 	public static final Item POLNISCHE_NATZIONALHIMNE = register(new PolnischeNatzionalhimneItem());
 	public static final Item JESUSKRAFT = register(new JesuskraftItem());
 	public static final Item JESUS_KREUZ = register(new JesusKreuzItem());

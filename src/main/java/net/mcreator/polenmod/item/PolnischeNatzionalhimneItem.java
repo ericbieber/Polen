@@ -10,11 +10,11 @@ import net.minecraft.world.item.RecordItem;
 import net.minecraft.world.item.Rarity;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.chat.TextComponent;
 import net.minecraft.network.chat.Component;
 
+import net.mcreator.polenmod.init.PolenModModTabs;
 import net.mcreator.polenmod.init.PolenModModSounds;
 
 import java.util.List;
@@ -22,7 +22,7 @@ import java.util.List;
 public class PolnischeNatzionalhimneItem extends RecordItem {
 	public PolnischeNatzionalhimneItem() {
 		super(0, PolenModModSounds.REGISTRY.get(new ResourceLocation("polen_mod:polen")),
-				new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(1).rarity(Rarity.RARE));
+				new Item.Properties().tab(PolenModModTabs.TAB_POLENMOD).stacksTo(1).rarity(Rarity.RARE));
 		setRegistryName("polnische_natzionalhimne");
 	}
 

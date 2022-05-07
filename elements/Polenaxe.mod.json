@@ -10,7 +10,7 @@
       "Nutze es um Urwälder abzuholzen"
     ],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:Polenmod"
     },
     "toolType": "Axe",
     "harvestLevel": 100,

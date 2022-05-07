@@ -8,7 +8,7 @@
     "name": "Uteore",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:Polenmod"
     },
     "stackSize": 64,
     "enchantability": 0,
