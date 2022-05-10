@@ -276,14 +276,6 @@
       "registry_name": "uteremixore"
     },
     {
-      "name": "Uteore",
-      "type": "item",
-      "sortid": 35,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "uteore"
-    },
-    {
       "name": "SaliBonanicrafting",
       "type": "recipe",
       "sortid": 36,
@@ -394,6 +386,68 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "gaymode"
+    },
+    {
+      "name": "Ute_oreeBlock",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ute_oree_block",
+      "path": "~/uteore"
+    },
+    {
+      "name": "Ute_oree",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ute_oree",
+      "path": "~/uteore"
+    },
+    {
+      "name": "Ute_oreeOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ute_oree_ore_block_recipe",
+      "path": "~/uteore"
+    },
+    {
+      "name": "Ute_oreeOre",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ute_oree_ore",
+      "path": "~/uteore"
+    },
+    {
+      "name": "Ute_oreeOreSmelting",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ute_oree_ore_smelting",
+      "path": "~/uteore"
+    },
+    {
+      "name": "Uteremixcrafting",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uteremixcrafting"
+    },
+    {
+      "name": "Ute_oreeBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ute_oree_block_ore_recipe",
+      "path": "~/uteore"
     }
   ],
   "variable_elements": [],
@@ -430,7 +484,6 @@
       "item.polen_mod.uteremixore": "Uteremixore",
       "subtitles.polen": "",
       "item.minecraft.potion.effect.polenpotion": "Potion of Polen",
-      "subtitles.ohhhh": "",
       "item.polen_mod.polnische_natzionalhimne": "Polnische Natzionalhymne",
       "item.polen_mod.polenaxe": "Polenaxe",
       "item.minecraft.splash_potion.effect.polenpotion": "Splash Potion of Polen",
@@ -440,7 +493,6 @@
       "enchantment.polen_mod.polenenchant": "Polenenchant",
       "itemGroup.tabpolenmod": "Polenmod",
       "item.polen_mod.brechstange": "Brechstange",
-      "item.polen_mod.dildo": "Dildo",
       "advancements.dubistein_pole.title": "Du bist ein Pole",
       "item.polen_mod.rauber_armor_chestplate": "Rauber Chestplate",
       "item.polen_mod.polenhoe": "Polenhoe",
@@ -465,6 +517,10 @@
     "children": [
       {
         "name": "Rustung",
+        "children": []
+      },
+      {
+        "name": "uteore",
         "children": []
       }
     ]

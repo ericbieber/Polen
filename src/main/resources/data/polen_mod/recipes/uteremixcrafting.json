@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "1": {
+      "item": "minecraft:red_wool"
+    },
+    "2": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "3": {
+      "item": "minecraft:black_wool"
+    },
+    "4": {
+      "item": "minecraft:diamond_block"
+    },
+    "5": {
+      "item": "minecraft:green_wool"
+    },
+    "6": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "7": {
+      "item": "minecraft:pink_wool"
+    },
+    "8": {
+      "item": "minecraft:blue_wool"
+    }
+  },
+  "result": {
+    "item": "polen_mod:uteremixore",
+    "count": 1
+  }
+}

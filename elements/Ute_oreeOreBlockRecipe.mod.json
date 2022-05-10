@@ -22,13 +22,13 @@
         "value": "CUSTOM:Ute_oree"
       },
       {
-        "value": "CUSTOM:Uteremixore"
+        "value": "CUSTOM:Ute_oree"
       },
       {
         "value": "CUSTOM:Ute_oree"
       },
       {
-        "value": "CUSTOM:Uteore"
+        "value": "CUSTOM:Ute_oree"
       },
       {
         "value": "CUSTOM:Ute_oree"
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:SaliBonani"
+      "value": "CUSTOM:Ute_oreeBlock"
     },
-    "name": "sali_bonanicrafting",
+    "name": "ute_oree_ore_block_recipe",
     "namespace": "mod"
   }
 }
