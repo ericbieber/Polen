@@ -9,7 +9,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "polen_mod:uteore",
+          "name": "polen_mod:deleted_mod_element",
           "weight": 10,
           "functions": [
             {
