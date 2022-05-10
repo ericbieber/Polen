@@ -370,6 +370,30 @@
           }
         ]
       }
+    },
+    {
+      "name": "GaymodeWennderBefehlAusgefuhrtWird",
+      "type": "procedure",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gaymode_wennder_befehl_ausgefuhrt_wird",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gaymode",
+      "type": "command",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gaymode"
     }
   ],
   "variable_elements": [],
