@@ -7,13 +7,14 @@ import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.item.crafting.Ingredient;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ArmorMaterial;
 import net.minecraft.world.item.ArmorItem;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.sounds.SoundEvent;
 import net.minecraft.resources.ResourceLocation;
+
+import net.mcreator.polenmod.init.PolenModModTabs;
 
 public abstract class RauberArmorItem extends ArmorItem {
 	public RauberArmorItem(EquipmentSlot slot, Item.Properties properties) {
@@ -62,7 +63,7 @@ public abstract class RauberArmorItem extends ArmorItem {
 
 	public static class Helmet extends RauberArmorItem {
 		public Helmet() {
-			super(EquipmentSlot.HEAD, new Item.Properties().tab(CreativeModeTab.TAB_COMBAT));
+			super(EquipmentSlot.HEAD, new Item.Properties().tab(PolenModModTabs.TAB_POLENMOD));
 			setRegistryName("rauber_armor_helmet");
 		}
 
@@ -74,7 +75,7 @@ public abstract class RauberArmorItem extends ArmorItem {
 
 	public static class Chestplate extends RauberArmorItem {
 		public Chestplate() {
-			super(EquipmentSlot.CHEST, new Item.Properties().tab(CreativeModeTab.TAB_COMBAT));
+			super(EquipmentSlot.CHEST, new Item.Properties().tab(PolenModModTabs.TAB_POLENMOD));
 			setRegistryName("rauber_armor_chestplate");
 		}
 
@@ -86,7 +87,7 @@ public abstract class RauberArmorItem extends ArmorItem {
 
 	public static class Leggings extends RauberArmorItem {
 		public Leggings() {
-			super(EquipmentSlot.LEGS, new Item.Properties().tab(CreativeModeTab.TAB_COMBAT));
+			super(EquipmentSlot.LEGS, new Item.Properties().tab(PolenModModTabs.TAB_POLENMOD));
 			setRegistryName("rauber_armor_leggings");
 		}
 
@@ -98,7 +99,7 @@ public abstract class RauberArmorItem extends ArmorItem {
 
 	public static class Boots extends RauberArmorItem {
 		public Boots() {
-			super(EquipmentSlot.FEET, new Item.Properties().tab(CreativeModeTab.TAB_COMBAT));
+			super(EquipmentSlot.FEET, new Item.Properties().tab(PolenModModTabs.TAB_POLENMOD));
 			setRegistryName("rauber_armor_boots");
 		}
 
