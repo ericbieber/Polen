@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    "polen_mod:polen_ore_block"
+    "polen_mod:polen_ore_block",
+    "polen_mod:ute_oree_ore",
+    "polen_mod:ute_oree_block"
   ]
 }

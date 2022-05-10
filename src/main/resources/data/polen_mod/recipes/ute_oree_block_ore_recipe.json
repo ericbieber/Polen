@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "polen_mod:ute_oree_block"
+    }
+  ],
+  "result": {
+    "item": "polen_mod:ute_oree",
+    "count": 9
+  }
+}

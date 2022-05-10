@@ -14,7 +14,7 @@ import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.BlockItem;
 
 import net.mcreator.polenmod.item.UteremixoreItem;
-import net.mcreator.polenmod.item.UteoreItem;
+import net.mcreator.polenmod.item.Ute_oreeItem;
 import net.mcreator.polenmod.item.SaliBonaniItem;
 import net.mcreator.polenmod.item.RauberArmorItem;
 import net.mcreator.polenmod.item.PolnischeNatzionalhimneItem;
@@ -51,8 +51,10 @@ public class PolenModModItems {
 	public static final Item JESUS_KREUZ = register(new JesusKreuzItem());
 	public static final Item SALI_BONANI = register(new SaliBonaniItem());
 	public static final Item UTEREMIXORE = register(new UteremixoreItem());
-	public static final Item UTEORE = register(new UteoreItem());
 	public static final Item POLENFLAGGE = register(new PolenflaggeItem());
+	public static final Item UTE_OREE = register(new Ute_oreeItem());
+	public static final Item UTE_OREE_ORE = register(PolenModModBlocks.UTE_OREE_ORE, PolenModModTabs.TAB_POLENMOD);
+	public static final Item UTE_OREE_BLOCK = register(PolenModModBlocks.UTE_OREE_BLOCK, PolenModModTabs.TAB_POLENMOD);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
