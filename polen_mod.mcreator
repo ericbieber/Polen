@@ -308,30 +308,21 @@
       "registry_name": "polenmod"
     },
     {
-      "name": "Ute_oree",
-      "type": "item",
-      "sortid": 39,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ute_oree",
-      "path": "~/uteore"
-    },
-    {
-      "name": "Ute_oreeOre",
-      "type": "block",
-      "sortid": 40,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ute_oree_ore",
-      "path": "~/uteore"
-    },
-    {
       "name": "Ute_oreeBlock",
       "type": "block",
       "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ute_oree_block",
+      "path": "~/uteore"
+    },
+    {
+      "name": "Ute_oree",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ute_oree",
       "path": "~/uteore"
     },
     {
@@ -344,12 +335,12 @@
       "path": "~/uteore"
     },
     {
-      "name": "Ute_oreeBlockOreRecipe",
-      "type": "recipe",
-      "sortid": 43,
+      "name": "Ute_oreeOre",
+      "type": "block",
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "ute_oree_block_ore_recipe",
+      "registry_name": "ute_oree_ore",
       "path": "~/uteore"
     },
     {
@@ -368,6 +359,71 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "uteremixcrafting"
+    },
+    {
+      "name": "Ute_oreeBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ute_oree_block_ore_recipe",
+      "path": "~/uteore"
+    },
+    {
+      "name": "Gaymodeprozedur",
+      "type": "procedure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gaymodeprozedur",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "guistate",
+            "type": "map"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dildo",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dildo"
+    },
+    {
+      "name": "DildoWennMitDerRechtenMaustasteInDerLuftGeklicktWurde",
+      "type": "procedure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dildo_wenn_mit_der_rechten_maustaste_in_der_luft_geklickt_wurde",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -384,6 +440,14 @@
       "name": "sali",
       "files": [
         "sali_bonani"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "ohhhh",
+      "files": [
+        "zapsplat_human_male_vocalisation_pain_ohhhh_66506"
       ],
       "category": "neutral",
       "subtitle": ""

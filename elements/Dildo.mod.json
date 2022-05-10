@@ -1,0 +1,37 @@
+{
+  "_fv": 24,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "7",
+    "customModelName": "Normal",
+    "name": "Dildo",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "CUSTOM:Polenmod"
+    },
+    "stackSize": 64,
+    "enchantability": 5,
+    "useDuration": 500,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": true,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 10.0,
+    "specialInfo": [],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "DildoWennMitDerRechtenMaustasteInDerLuftGeklicktWurde"
+    },
+    "hasDispenseBehavior": false
+  }
+}
