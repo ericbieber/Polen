@@ -16,5 +16,14 @@
         "stream": false
       }
     ]
+  },
+  "ohhhh": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "polen_mod:zapsplat_human_male_vocalisation_pain_ohhhh_66506",
+        "stream": false
+      }
+    ]
   }
 }

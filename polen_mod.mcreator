@@ -314,6 +314,62 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "polenmod"
+    },
+    {
+      "name": "DildoWennMitDerRechtenMaustasteInDerLuftGeklicktWurde",
+      "type": "procedure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dildo_wenn_mit_der_rechten_maustaste_in_der_luft_geklickt_wurde",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dildo",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dildo"
+    },
+    {
+      "name": "Gaymodeprozedur",
+      "type": "procedure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gaymodeprozedur",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "guistate",
+            "type": "map"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -333,6 +389,14 @@
       ],
       "category": "neutral",
       "subtitle": ""
+    },
+    {
+      "name": "ohhhh",
+      "files": [
+        "zapsplat_human_male_vocalisation_pain_ohhhh_66506"
+      ],
+      "category": "neutral",
+      "subtitle": ""
     }
   ],
   "language_map": {
@@ -342,6 +406,7 @@
       "item.polen_mod.uteremixore": "Uteremixore",
       "subtitles.polen": "",
       "item.minecraft.potion.effect.polenpotion": "Potion of Polen",
+      "subtitles.ohhhh": "",
       "item.polen_mod.polnische_natzionalhimne": "Polnische Natzionalhymne",
       "item.polen_mod.polenaxe": "Polenaxe",
       "item.minecraft.splash_potion.effect.polenpotion": "Splash Potion of Polen",
@@ -351,6 +416,7 @@
       "enchantment.polen_mod.polenenchant": "Polenenchant",
       "itemGroup.tabpolenmod": "Polenmod",
       "item.polen_mod.brechstange": "Brechstange",
+      "item.polen_mod.dildo": "Dildo",
       "advancements.dubistein_pole.title": "Du bist ein Pole",
       "item.polen_mod.rauber_armor_chestplate": "Rauber Chestplate",
       "item.polen_mod.polenhoe": "Polenhoe",

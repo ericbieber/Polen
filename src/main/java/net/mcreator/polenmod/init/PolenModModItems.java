@@ -26,6 +26,7 @@ import net.mcreator.polenmod.item.PolenaxeItem;
 import net.mcreator.polenmod.item.PolenOreItemItem;
 import net.mcreator.polenmod.item.JesuskraftItem;
 import net.mcreator.polenmod.item.JesusKreuzItem;
+import net.mcreator.polenmod.item.DildoItem;
 import net.mcreator.polenmod.item.BrechstangeItem;
 
 import java.util.List;
@@ -53,6 +54,7 @@ public class PolenModModItems {
 	public static final Item UTEREMIXORE = register(new UteremixoreItem());
 	public static final Item UTEORE = register(new UteoreItem());
 	public static final Item POLENFLAGGE = register(new PolenflaggeItem());
+	public static final Item DILDO = register(new DildoItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
