@@ -57,6 +57,8 @@ public class PolenModModItems {
 	public static final Item UTE_OREE = register(new Ute_oreeItem());
 	public static final Item UTE_OREE_ORE = register(PolenModModBlocks.UTE_OREE_ORE, PolenModModTabs.TAB_POLENMOD);
 	public static final Item UTE_OREE_BLOCK = register(PolenModModBlocks.UTE_OREE_BLOCK, PolenModModTabs.TAB_POLENMOD);
+	public static final Item UTEORE_2_ORE = register(PolenModModBlocks.UTEORE_2_ORE, PolenModModTabs.TAB_POLENMOD);
+	public static final Item UTEORE_2_BLOCK = register(PolenModModBlocks.UTEORE_2_BLOCK, PolenModModTabs.TAB_POLENMOD);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

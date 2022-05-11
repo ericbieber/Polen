@@ -433,14 +433,6 @@
       "path": "~/uteore"
     },
     {
-      "name": "Uteremixcrafting",
-      "type": "recipe",
-      "sortid": 45,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "uteremixcrafting"
-    },
-    {
       "name": "Ute_oreeBlockOreRecipe",
       "type": "recipe",
       "sortid": 43,
@@ -448,6 +440,51 @@
       "locked_code": false,
       "registry_name": "ute_oree_block_ore_recipe",
       "path": "~/uteore"
+    },
+    {
+      "name": "Uteore2Ore",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uteore_2_ore",
+      "path": "~/uteore2"
+    },
+    {
+      "name": "Uteore2Block",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uteore_2_block",
+      "path": "~/uteore2"
+    },
+    {
+      "name": "Uteore2OreBlockRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uteore_2_ore_block_recipe",
+      "path": "~/uteore2"
+    },
+    {
+      "name": "Uteore2BlockOreRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uteore_2_block_ore_recipe",
+      "path": "~/uteore2"
+    },
+    {
+      "name": "Uteore2OreSmelting",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uteore_2_ore_smelting",
+      "path": "~/uteore2"
     }
   ],
   "variable_elements": [],
@@ -485,6 +522,7 @@
       "subtitles.polen": "",
       "item.minecraft.potion.effect.polenpotion": "Potion of Polen",
       "item.polen_mod.polnische_natzionalhimne": "Polnische Natzionalhymne",
+      "block.polen_mod.uteore_2_block": "Block of Uteore2",
       "item.polen_mod.ute_oree": "Ute_oree",
       "item.polen_mod.polenaxe": "Polenaxe",
       "item.minecraft.splash_potion.effect.polenpotion": "Splash Potion of Polen",
@@ -503,6 +541,7 @@
       "item.polen_mod.sali_bonani.desc": "Schönen guten Morgen",
       "item.polen_mod.polenflagge": "Polenflagge",
       "subtitles.sali": "",
+      "block.polen_mod.uteore_2_ore": "Uteore2 Ore",
       "item.minecraft.tipped_arrow.effect.polenpotion": "Arrow of Polen",
       "item.minecraft.lingering_potion.effect.polenpotion": "Lingering Potion of Polen",
       "item.polen_mod.polensword": "Polensword",
@@ -525,6 +564,10 @@
       },
       {
         "name": "uteore",
+        "children": []
+      },
+      {
+        "name": "uteore2",
         "children": []
       }
     ]

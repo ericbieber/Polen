@@ -3,6 +3,8 @@
   "values": [
     "polen_mod:polen_ore_block",
     "polen_mod:ute_oree_ore",
-    "polen_mod:ute_oree_block"
+    "polen_mod:ute_oree_block",
+    "polen_mod:uteore_2_ore",
+    "polen_mod:uteore_2_block"
   ]
 }

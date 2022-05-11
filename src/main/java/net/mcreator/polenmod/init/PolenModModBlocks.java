@@ -10,6 +10,8 @@ import net.minecraftforge.event.RegistryEvent;
 
 import net.minecraft.world.level.block.Block;
 
+import net.mcreator.polenmod.block.Uteore2OreBlock;
+import net.mcreator.polenmod.block.Uteore2BlockBlock;
 import net.mcreator.polenmod.block.Ute_oreeOreBlock;
 import net.mcreator.polenmod.block.Ute_oreeBlockBlock;
 import net.mcreator.polenmod.block.PolenblockBlock;
@@ -25,6 +27,8 @@ public class PolenModModBlocks {
 	public static final Block POLENBLOCK = register(new PolenblockBlock());
 	public static final Block UTE_OREE_ORE = register(new Ute_oreeOreBlock());
 	public static final Block UTE_OREE_BLOCK = register(new Ute_oreeBlockBlock());
+	public static final Block UTEORE_2_ORE = register(new Uteore2OreBlock());
+	public static final Block UTEORE_2_BLOCK = register(new Uteore2BlockBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);

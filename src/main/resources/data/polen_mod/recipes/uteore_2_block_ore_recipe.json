@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "polen_mod:uteore_2_block"
+    }
+  ],
+  "result": {
+    "item": "polen_mod:uteremixore",
+    "count": 9
+  }
+}
