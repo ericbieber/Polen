@@ -1,6 +1,12 @@
 package net.mcreator.polenmod.procedures;
 
-import net.minecraftforge.eventbus.api.Event;
+import net.minecraftforge.items.ItemHandlerHelper;
+
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.entity.player.Player;
+import net.minecraft.world.entity.Entity;
+
+import net.mcreator.polenmod.init.PolenModModItems;
 
 public class GaymodeWennderBefehlAusgefuhrtWirdProcedure {
 	public static void execute(Entity entity) {

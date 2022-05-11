@@ -1,4 +1,20 @@
 {
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "polen_mod:polen_ore_item"
+    },
+    "title": {
+      "translate": "advancements.dubistein_pole.title"
+    },
+    "description": {
+      "translate": "advancements.dubistein_pole.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
   "criteria": {
     "dubistein_pole": {
       "trigger": "minecraft:placed_block",
