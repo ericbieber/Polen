@@ -15,6 +15,7 @@ import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.Entity;
 
 import net.mcreator.polenmod.entity.JesusKreuzEntity;
+import net.mcreator.polenmod.entity.DobbelbarrelshotgunEntity;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -25,6 +26,10 @@ public class PolenModModEntities {
 	public static final EntityType<JesusKreuzEntity> JESUS_KREUZ = register("entitybulletjesus_kreuz",
 			EntityType.Builder.<JesusKreuzEntity>of(JesusKreuzEntity::new, MobCategory.MISC).setCustomClientFactory(JesusKreuzEntity::new)
 					.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(1).sized(0.5f, 0.5f));
+	public static final EntityType<DobbelbarrelshotgunEntity> DOBBELBARRELSHOTGUN = register("entitybulletdobbelbarrelshotgun",
+			EntityType.Builder.<DobbelbarrelshotgunEntity>of(DobbelbarrelshotgunEntity::new, MobCategory.MISC)
+					.setCustomClientFactory(DobbelbarrelshotgunEntity::new).setShouldReceiveVelocityUpdates(true).setTrackingRange(64)
+					.setUpdateInterval(1).sized(0.5f, 0.5f));
 
 	private static <T extends Entity> EntityType<T> register(String registryname, EntityType.Builder<T> entityTypeBuilder) {
 		EntityType<T> entityType = (EntityType<T>) entityTypeBuilder.build(registryname).setRegistryName(registryname);

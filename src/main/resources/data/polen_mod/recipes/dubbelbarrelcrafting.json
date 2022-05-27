@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    "345",
+    "  8"
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "3": {
+      "item": "minecraft:barrel"
+    },
+    "4": {
+      "item": "minecraft:barrel"
+    },
+    "5": {
+      "item": "minecraft:string"
+    },
+    "8": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "polen_mod:dobbelbarrelshotgun",
+    "count": 1
+  }
+}

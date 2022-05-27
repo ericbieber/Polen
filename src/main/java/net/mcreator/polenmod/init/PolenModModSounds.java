@@ -21,6 +21,7 @@ public class PolenModModSounds {
 		REGISTRY.put(new ResourceLocation("polen_mod", "polen"), new SoundEvent(new ResourceLocation("polen_mod", "polen")));
 		REGISTRY.put(new ResourceLocation("polen_mod", "sali"), new SoundEvent(new ResourceLocation("polen_mod", "sali")));
 		REGISTRY.put(new ResourceLocation("polen_mod", "ohhhh"), new SoundEvent(new ResourceLocation("polen_mod", "ohhhh")));
+		REGISTRY.put(new ResourceLocation("polen_mod", "shotgun_sound"), new SoundEvent(new ResourceLocation("polen_mod", "shotgun_sound")));
 	}
 
 	@SubscribeEvent

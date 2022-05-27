@@ -25,5 +25,15 @@
         "stream": false
       }
     ]
+  },
+  "shotgun_sound": {
+    "category": "neutral",
+    "subtitle": "subtitles.shotgun_sound",
+    "sounds": [
+      {
+        "name": "polen_mod:shotgun_shot_sound_effect",
+        "stream": false
+      }
+    ]
   }
 }

@@ -15,6 +15,7 @@ import net.minecraft.world.item.BlockItem;
 
 import net.mcreator.polenmod.item.UteremixoreItem;
 import net.mcreator.polenmod.item.Ute_oreeItem;
+import net.mcreator.polenmod.item.ShotgunammoItem;
 import net.mcreator.polenmod.item.SaliBonaniItem;
 import net.mcreator.polenmod.item.RauberArmorItem;
 import net.mcreator.polenmod.item.PolnischeNatzionalhimneItem;
@@ -26,6 +27,7 @@ import net.mcreator.polenmod.item.PolenaxeItem;
 import net.mcreator.polenmod.item.PolenOreItemItem;
 import net.mcreator.polenmod.item.JesuskraftItem;
 import net.mcreator.polenmod.item.JesusKreuzItem;
+import net.mcreator.polenmod.item.DobbelbarrelshotgunItem;
 import net.mcreator.polenmod.item.DildoItem;
 import net.mcreator.polenmod.item.BrechstangeItem;
 
@@ -57,6 +59,8 @@ public class PolenModModItems {
 	public static final Item UTE_OREE = register(new Ute_oreeItem());
 	public static final Item UTE_OREE_ORE = register(PolenModModBlocks.UTE_OREE_ORE, PolenModModTabs.TAB_POLENMOD);
 	public static final Item UTE_OREE_BLOCK = register(PolenModModBlocks.UTE_OREE_BLOCK, PolenModModTabs.TAB_POLENMOD);
+	public static final Item SHOTGUNAMMO = register(new ShotgunammoItem());
+	public static final Item DOBBELBARRELSHOTGUN = register(new DobbelbarrelshotgunItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

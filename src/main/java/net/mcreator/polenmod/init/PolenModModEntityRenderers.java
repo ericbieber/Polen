@@ -16,5 +16,6 @@ public class PolenModModEntityRenderers {
 	@SubscribeEvent
 	public static void registerEntityRenderers(EntityRenderersEvent.RegisterRenderers event) {
 		event.registerEntityRenderer(PolenModModEntities.JESUS_KREUZ, ThrownItemRenderer::new);
+		event.registerEntityRenderer(PolenModModEntities.DOBBELBARRELSHOTGUN, ThrownItemRenderer::new);
 	}
 }

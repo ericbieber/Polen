@@ -448,6 +448,38 @@
       "locked_code": false,
       "registry_name": "ute_oree_block_ore_recipe",
       "path": "~/uteore"
+    },
+    {
+      "name": "Shotgunammo",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shotgunammo"
+    },
+    {
+      "name": "Dobbelbarrelshotgun",
+      "type": "rangeditem",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dobbelbarrelshotgun"
+    },
+    {
+      "name": "Dubbelbarrelcrafting",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dubbelbarrelcrafting"
+    },
+    {
+      "name": "Shotgunmuntioncrafting",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shotgunmuntioncrafting"
     }
   ],
   "variable_elements": [],
@@ -475,6 +507,14 @@
       ],
       "category": "neutral",
       "subtitle": ""
+    },
+    {
+      "name": "shotgun_sound",
+      "files": [
+        "shotgun_shot_sound_effect"
+      ],
+      "category": "neutral",
+      "subtitle": "shotgun_shot"
     }
   ],
   "language_map": {
@@ -487,6 +527,7 @@
       "item.polen_mod.polnische_natzionalhimne": "Polnische Natzionalhymne",
       "item.polen_mod.polenaxe": "Polenaxe",
       "item.minecraft.splash_potion.effect.polenpotion": "Splash Potion of Polen",
+      "item.polen_mod.dobbelbarrelshotgun": "Dobbelbarrelshotgun",
       "block.polen_mod.polen_ore_block": "Block of Polen_Ore",
       "item.polen_mod.polenpickaxe": "Polenpickaxe",
       "item.polen_mod.uteore": "Uteore",
@@ -496,6 +537,7 @@
       "item.polen_mod.dildo": "Dildo",
       "advancements.dubistein_pole.title": "Du bist ein Pole",
       "item.polen_mod.rauber_armor_chestplate": "Rauber Chestplate",
+      "subtitles.shotgun_sound": "shotgun_shot",
       "item.polen_mod.polenhoe": "Polenhoe",
       "item.polen_mod.polnische_natzionalhimne.desc": "polen",
       "item.polen_mod.sali_bonani.desc": "Schönen guten Morgen",
@@ -504,6 +546,7 @@
       "item.minecraft.tipped_arrow.effect.polenpotion": "Arrow of Polen",
       "item.minecraft.lingering_potion.effect.polenpotion": "Lingering Potion of Polen",
       "item.polen_mod.polensword": "Polensword",
+      "item.polen_mod.shotgunammo": "Shotgunammo",
       "item.polen_mod.rauber_armor_helmet": "Rauber Helmet",
       "item.polen_mod.rauber_armor_leggings": "Rauber Leggings",
       "item.polen_mod.polen_ore_item": "Polen Ore Item",
