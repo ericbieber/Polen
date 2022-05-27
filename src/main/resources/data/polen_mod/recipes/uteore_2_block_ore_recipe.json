@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "polen_mod:deleted_mod_element"
+      "item": "polen_mod:uteore_2_block"
     }
   ],
   "result": {
