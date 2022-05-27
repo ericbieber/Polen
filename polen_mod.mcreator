@@ -442,6 +442,51 @@
       "path": "~/uteore"
     },
     {
+      "name": "Uteore2Ore",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uteore_2_ore",
+      "path": "~/uteore2"
+    },
+    {
+      "name": "Uteore2Block",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uteore_2_block",
+      "path": "~/uteore2"
+    },
+    {
+      "name": "Uteore2OreBlockRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uteore_2_ore_block_recipe",
+      "path": "~/uteore2"
+    },
+    {
+      "name": "Uteore2BlockOreRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uteore_2_block_ore_recipe",
+      "path": "~/uteore2"
+    },
+    {
+      "name": "Uteore2OreSmelting",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uteore_2_ore_smelting",
+      "path": "~/uteore2"
+    },
+    {
       "name": "Shotgunammo",
       "type": "item",
       "sortid": 46,
@@ -472,51 +517,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "dubbelbarrelcrafting"
-    },
-    {
-      "name": "Uteore2BlockOreRecipe",
-      "type": "recipe",
-      "sortid": 50,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "uteore_2_block_ore_recipe",
-      "path": "~/uteore2"
-    },
-    {
-      "name": "Uteore2Ore",
-      "type": "block",
-      "sortid": 47,
-      "compiles": false,
-      "locked_code": false,
-      "registry_name": "uteore_2_ore",
-      "path": "~/uteore2"
-    },
-    {
-      "name": "Uteore2Block",
-      "type": "block",
-      "sortid": 48,
-      "compiles": false,
-      "locked_code": false,
-      "registry_name": "uteore_2_block",
-      "path": "~/uteore2"
-    },
-    {
-      "name": "Uteore2OreBlockRecipe",
-      "type": "recipe",
-      "sortid": 49,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "uteore_2_ore_block_recipe",
-      "path": "~/uteore2"
-    },
-    {
-      "name": "Uteore2OreSmelting",
-      "type": "recipe",
-      "sortid": 51,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "uteore_2_ore_smelting",
-      "path": "~/uteore2"
     }
   ],
   "variable_elements": [],
@@ -584,7 +584,6 @@
       "item.minecraft.tipped_arrow.effect.polenpotion": "Arrow of Polen",
       "item.minecraft.lingering_potion.effect.polenpotion": "Lingering Potion of Polen",
       "item.polen_mod.polensword": "Polensword",
-      "item.polen_mod.shotgunammo": "Shotgunammo",
       "item.polen_mod.rauber_armor_helmet": "Rauber Helmet",
       "item.polen_mod.rauber_armor_leggings": "Rauber Leggings",
       "item.polen_mod.polen_ore_item": "Polen Ore Item",
@@ -600,6 +599,10 @@
     "children": [
       {
         "name": "uteore2",
+        "children": []
+      },
+      {
+        "name": "test",
         "children": []
       },
       {
