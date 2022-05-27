@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "polen_mod:uteremixore"
+    },
+    "1": {
+      "item": "polen_mod:uteremixore"
+    },
+    "2": {
+      "item": "polen_mod:uteremixore"
+    },
+    "3": {
+      "item": "polen_mod:uteremixore"
+    },
+    "4": {
+      "item": "polen_mod:uteremixore"
+    },
+    "5": {
+      "item": "polen_mod:uteremixore"
+    },
+    "6": {
+      "item": "polen_mod:uteremixore"
+    },
+    "7": {
+      "item": "polen_mod:uteremixore"
+    },
+    "8": {
+      "item": "polen_mod:uteremixore"
+    }
+  },
+  "result": {
+    "item": "polen_mod:uteore_2_block",
+    "count": 1
+  }
+}

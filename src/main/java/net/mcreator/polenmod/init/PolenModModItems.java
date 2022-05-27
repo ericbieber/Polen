@@ -61,6 +61,8 @@ public class PolenModModItems {
 	public static final Item UTE_OREE_BLOCK = register(PolenModModBlocks.UTE_OREE_BLOCK, PolenModModTabs.TAB_POLENMOD);
 	public static final Item SHOTGUNAMMO = register(new ShotgunammoItem());
 	public static final Item DOBBELBARRELSHOTGUN = register(new DobbelbarrelshotgunItem());
+	public static final Item UTEORE_2_ORE = register(PolenModModBlocks.UTEORE_2_ORE, PolenModModTabs.TAB_POLENMOD);
+	public static final Item UTEORE_2_BLOCK = register(PolenModModBlocks.UTEORE_2_BLOCK, PolenModModTabs.TAB_POLENMOD);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

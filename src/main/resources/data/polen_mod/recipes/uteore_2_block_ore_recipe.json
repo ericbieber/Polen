@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "polen_mod:deleted_mod_element"
+    }
+  ],
+  "result": {
+    "item": "polen_mod:uteremixore",
+    "count": 9
+  }
+}

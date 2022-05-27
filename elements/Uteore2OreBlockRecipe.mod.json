@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Uteremixore"
+      },
+      {
+        "value": "CUSTOM:Uteremixore"
+      },
+      {
+        "value": "CUSTOM:Uteremixore"
+      },
+      {
+        "value": "CUSTOM:Uteremixore"
+      },
+      {
+        "value": "CUSTOM:Uteremixore"
+      },
+      {
+        "value": "CUSTOM:Uteremixore"
+      },
+      {
+        "value": "CUSTOM:Uteremixore"
+      },
+      {
+        "value": "CUSTOM:Uteremixore"
+      },
+      {
+        "value": "CUSTOM:Uteremixore"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Uteore2Block"
+    },
+    "name": "uteore_2_ore_block_recipe",
+    "namespace": "mod"
+  }
+}

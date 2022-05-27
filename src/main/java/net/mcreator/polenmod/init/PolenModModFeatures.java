@@ -16,6 +16,7 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.data.BuiltinRegistries;
 import net.minecraft.core.Registry;
 
+import net.mcreator.polenmod.world.features.ores.Uteore2OreFeature;
 import net.mcreator.polenmod.world.features.ores.Ute_oreeOreFeature;
 
 import java.util.Set;
@@ -28,6 +29,8 @@ public class PolenModModFeatures {
 	static {
 		REGISTRY.put(Ute_oreeOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
 				Ute_oreeOreFeature.GENERATE_BIOMES, Ute_oreeOreFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(Uteore2OreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES, Uteore2OreFeature.GENERATE_BIOMES,
+				Uteore2OreFeature.CONFIGURED_FEATURE));
 	}
 
 	@SubscribeEvent
