@@ -461,7 +461,7 @@
       "name": "Dobbelbarrelshotgun",
       "type": "rangeditem",
       "sortid": 46,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "dobbelbarrelshotgun"
     },
@@ -486,7 +486,7 @@
       "name": "Uteore2Ore",
       "type": "block",
       "sortid": 47,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "uteore_2_ore",
       "path": "~/uteore2"
@@ -495,7 +495,7 @@
       "name": "Uteore2Block",
       "type": "block",
       "sortid": 48,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "uteore_2_block",
       "path": "~/uteore2"
@@ -584,6 +584,7 @@
       "item.minecraft.tipped_arrow.effect.polenpotion": "Arrow of Polen",
       "item.minecraft.lingering_potion.effect.polenpotion": "Lingering Potion of Polen",
       "item.polen_mod.polensword": "Polensword",
+      "item.polen_mod.shotgunammo": "Shotgunammo",
       "item.polen_mod.rauber_armor_helmet": "Rauber Helmet",
       "item.polen_mod.rauber_armor_leggings": "Rauber Leggings",
       "item.polen_mod.polen_ore_item": "Polen Ore Item",
