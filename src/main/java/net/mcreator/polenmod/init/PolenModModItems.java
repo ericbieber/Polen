@@ -25,6 +25,7 @@ import net.mcreator.polenmod.item.PolenhoeItem;
 import net.mcreator.polenmod.item.PolenflaggeItem;
 import net.mcreator.polenmod.item.PolenaxeItem;
 import net.mcreator.polenmod.item.PolenOreItemItem;
+import net.mcreator.polenmod.item.MegadildoItem;
 import net.mcreator.polenmod.item.JesuskraftItem;
 import net.mcreator.polenmod.item.JesusKreuzItem;
 import net.mcreator.polenmod.item.DobbelbarrelshotgunItem;
@@ -69,6 +70,7 @@ public class PolenModModItems {
 	public static final Item BIGIRONSWORD = register(new BigironswordItem());
 	public static final Item BIGGOLDSWORD = register(new BiggoldswordItem());
 	public static final Item BIGDIAMONDSWORD = register(new BigdiamondswordItem());
+	public static final Item MEGADILDO = register(new MegadildoItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
