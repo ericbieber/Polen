@@ -30,6 +30,9 @@ import net.mcreator.polenmod.item.JesusKreuzItem;
 import net.mcreator.polenmod.item.DobbelbarrelshotgunItem;
 import net.mcreator.polenmod.item.DildoItem;
 import net.mcreator.polenmod.item.BrechstangeItem;
+import net.mcreator.polenmod.item.BigironswordItem;
+import net.mcreator.polenmod.item.BiggoldswordItem;
+import net.mcreator.polenmod.item.BigdiamondswordItem;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -63,6 +66,9 @@ public class PolenModModItems {
 	public static final Item DOBBELBARRELSHOTGUN = register(new DobbelbarrelshotgunItem());
 	public static final Item UTEORE_2_ORE = register(PolenModModBlocks.UTEORE_2_ORE, PolenModModTabs.TAB_POLENMOD);
 	public static final Item UTEORE_2_BLOCK = register(PolenModModBlocks.UTEORE_2_BLOCK, PolenModModTabs.TAB_POLENMOD);
+	public static final Item BIGIRONSWORD = register(new BigironswordItem());
+	public static final Item BIGGOLDSWORD = register(new BiggoldswordItem());
+	public static final Item BIGDIAMONDSWORD = register(new BigdiamondswordItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

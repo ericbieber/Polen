@@ -1,5 +1,6 @@
 {
   "advancements.dubistein_pole.descr": "Du hast die Polen Potion getrunken",
+  "item.polen_mod.biggoldsword": "Biggoldsword",
   "item.polen_mod.rauber_armor_boots": "Rauber Boots",
   "item.polen_mod.uteremixore": "Uteremixore",
   "subtitles.polen": "",
@@ -7,6 +8,7 @@
   "item.polen_mod.polnische_natzionalhimne": "Polnische Natzionalhymne",
   "block.polen_mod.uteore_2_block": "Block of Uteore2",
   "item.polen_mod.ute_oree": "Ute_oree",
+  "item.polen_mod.bigdiamondsword": "Bigdiamondsword",
   "item.polen_mod.polenaxe": "Polenaxe",
   "item.minecraft.splash_potion.effect.polenpotion": "Splash Potion of Polen",
   "item.polen_mod.dobbelbarrelshotgun": "Dobbelbarrelshotgun",
@@ -18,6 +20,7 @@
   "item.polen_mod.brechstange": "Brechstange",
   "item.polen_mod.dildo": "Dildo",
   "advancements.dubistein_pole.title": "Du bist ein Pole",
+  "item.polen_mod.bigironsword": "Bigironsword",
   "item.polen_mod.rauber_armor_chestplate": "Rauber Chestplate",
   "subtitles.shotgun_sound": "shotgun_shot",
   "block.polen_mod.ute_oree_ore": "Ute_oree Ore",
