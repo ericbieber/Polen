@@ -573,6 +573,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "bigdiamondcrafting"
+    },
+    {
+      "name": "Dildor",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dildor"
     }
   ],
   "variable_elements": [],
